@@ -68,6 +68,16 @@ class MainActivity : ComponentActivity() {
                         }
                     }
 
+                    composable("styling_text") {
+                        TextStyling(navController)
+                    }
+                    composable("state") {
+                        State(navController)
+                    }
+                    composable("fields_btns") {
+                        FieldsButtonsEtc(navController)
+                    }
+
                 }
             }
 

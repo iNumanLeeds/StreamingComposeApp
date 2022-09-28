@@ -15,7 +15,10 @@ import androidx.navigation.NavController
 
 private val Samples = listOf(
     "stream" to "Stream",
-    "basic" to "Basic"
+    "basic" to "Basic",
+    "styling_text" to "Text Styling",
+    "state" to "State",
+    "fields_btns" to "Fields Buttons Etc"
 
 )
 
