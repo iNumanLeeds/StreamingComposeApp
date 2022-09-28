@@ -58,7 +58,7 @@ fun Stream(navController: NavController) {
                 .padding(vertical = 12.dp),
             verticalArrangement = Arrangement.spacedBy(24.dp)
         ) {
-
+/**/
             Box(
                 modifier = Modifier
                     .fillMaxSize()
